@@ -1,1 +1,21 @@
-[]
+{
+    "updated_at": "2026-01-21T12:00:00Z",
+    "apps": [
+        {
+            "org": "testapporg",
+            "name": "testappname",
+            "version": "1.0.0",
+            "description": "testappname",
+            "download_url": "https://yunpan.ipanel.cn/share/ZmQ1NzNkMGZiZGM/testpoka/testappname1.zip",
+            "os": "linux"
+        },
+        {
+            "org": "testapporg2",
+            "name": "testappname2",
+            "version": "1.0.0",
+            "description": "testappname2",
+            "download_url": "https://yunpan.ipanel.cn/share/ZmQ1NzNkMGZiZGM/testpoka/testappname2.zip",
+            "os": "linux"
+        }
+    ]
+}

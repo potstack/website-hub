@@ -16,6 +16,14 @@
             "description": "testappname2",
             "download_url": "https://yunpan.ipanel.cn/share/ZmQ1NzNkMGZiZGM/testpoka/testappname2.zip",
             "os": "linux"
+        },
+        {
+            "org": "potstack",
+            "name": "webdav",
+            "version": "1.0.0",
+            "description": "webdav",
+            "download_url": "https://yunpan.ipanel.cn/share/ZmQ1NzNkMGZiZGM/testpoka/webdav.ppk",
+            "os": "linux"
         }
     ]
 }
